@@ -24,7 +24,7 @@ Our program should tell us give us the list of states, which will tell us:
 - state = (0, 3) Pour contents of Container A into Container B
 - state = (3,3) Fill Container A
 - state = (2, 4) Pour from Container A into Container B until B is full
-- Done! Since Container A has exactly the desired amount in itMay 6,2021 CS 2050: Lecture 29
+- Done! Since Container A has exactly the desired amount in it
 
 Requirements:
 - findSolution(a, b, goal_amount) - this function (along with any
